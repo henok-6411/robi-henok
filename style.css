@@ -3,6 +3,7 @@ body {
 }
 
 #form-container {
+  // this line will create the red boarder box
 border: solid 1px red;
 display: grid;
 grid-template-columns: 1fr 1fr 1fr;
